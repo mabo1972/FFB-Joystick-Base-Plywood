@@ -10,6 +10,10 @@ CAD - full STP assembly
 
 ## Bill of Materials
 
+| VPForce Kit   | Quantity | Link |
+|-------------- |:--------:|-----:|
+|57BLF03 - 57x101mm - 1.6Nm peak - 1.24kg - NEMA23|1|[link](https://vpforcecontrols.com/) |
+
 | Print Parts   | Quantity |
 | ------------- |:--------:|
 |bearing_retainer_half|4|
@@ -22,7 +26,7 @@ CAD - full STP assembly
 |PULLEY_70T_Hollow|2|
 |VPForce_Controller_Holder|1|
 
-| LaserCut Parts | Quantity |
+| LaserCut Parts Plywood 8mm| Quantity |
 | -------------- |:--------:|
 |Back-Panel|1|
 |Buttom-Panel|1|
