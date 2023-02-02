@@ -35,3 +35,19 @@ CAD - full STP assembly
 |Mid-Panel|1|
 |Right-Panel|1|
 |Top-Panel|1|
+
+| Bearings                      | Quantity  | Link |
+| ----------------------------- | --------- | ---- |
+| 6802                          | 8  |[link](hhttps://amzn.eu/d/eDOVoF4/) |
+| 6808                          | 4  |[link](https://amzn.eu/d/eurbt7d/) |
+| F625                          | 2  |[link](https://amzn.eu/d/9N6LxrD/) |
+
+
+| Motor pulley                  | Quantity  | Link |
+| ----------------------------- | --------- | ---- |
+| HTD-5M-14T                    | 2  |[link](https://www.zahnriemen24.de/a/40140-zahnscheiben-5m?vorbohrungspannsatz=1&bohrung=1&quantity=1/) |
+
+| Belts                  		| Quantity  | Link |
+| ----------------------------- | --------- | ---- |
+| HTD-420-5M/15                 | 1  |[link](https://www.zahnriemen24.de/a/40008-zahnriemen-5m/) |
+| HTD-360-5M/15                 | 1  |[link](https://www.zahnriemen24.de/a/40008-zahnriemen-5m/) |
