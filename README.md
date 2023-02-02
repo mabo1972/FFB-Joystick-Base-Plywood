@@ -38,7 +38,7 @@ CAD - full STP assembly
 
 | Bearings                      | Quantity  | Link |
 | ----------------------------- | --------- | ---- |
-| 6802                          | 8  |[link](hhttps://amzn.eu/d/eDOVoF4/) |
+| 6802                          | 8  |[link](https://amzn.eu/d/eDOVoF4/) |
 | 6808                          | 4  |[link](https://amzn.eu/d/eurbt7d/) |
 | F625                          | 2  |[link](https://amzn.eu/d/9N6LxrD/) |
 
