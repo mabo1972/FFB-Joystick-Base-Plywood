@@ -23,7 +23,7 @@ CAD - full STP assembly
 |GIMBAL_ARM_FRAME|2|
 |GIMBAL_CORE_JOINT_6mm|1|
 |GIMBAL_STICK_CONNECTOR TM|1|
-|PULLEY_70T_Hollow|2|
+|PULLEY|2|
 |VPForce_Controller_Holder|1|
 
 | LaserCut Parts Plywood 8mm| Quantity |
